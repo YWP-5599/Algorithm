@@ -2,8 +2,10 @@ package com.scu.algorithm;
 
 public class sortTest {
     public static void main(String[] args) {
-        int[] arr = new int[]{1,9,5,6,3,2,77};
+        Integer[] arr = new Integer[]{1, 2, 3, 18, 20,55, 31, 7, 27};
         sort_algorithm.sort(arr);
-        System.out.println(aRR);
+        for( Integer i : arr){
+            System.out.print(i + " ");
         }
+    }
 }
