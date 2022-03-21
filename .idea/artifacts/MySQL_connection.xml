@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="MySQL:connection">
+    <output-path>$PROJECT_DIR$/out/artifacts/MySQL_connection</output-path>
+    <root id="root">
+      <element id="file-copy" path="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.28.jar" />
+    </root>
+  </artifact>
+</component>
